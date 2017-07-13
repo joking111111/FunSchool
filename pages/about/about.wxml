@@ -1,0 +1,30 @@
+<view class="container">
+  <swiper indicator-dots='true' autoplay="true" interval="5000">
+    <swiper-item>
+      <view class="item-container">
+        <image src="../../image/avater_liang.jpg"></image>
+        <text class="name">梁祖康</text>
+        <text class="brief">韬光养晦 厚积薄发 持之以恒 慎终如始</text>
+      </view>
+    </swiper-item>
+
+    <swiper-item>
+      <view class="item-container">
+        <image src="../../image/avater_wang.jpg"></image>
+        <text class="name">王鸿</text>
+        <text class="brief">厚德博学 敬业乐群</text>
+      </view>
+    </swiper-item>
+
+    <swiper-item>
+      <view class="item-container">
+        <image src="../../image/avater_panghu.jpg"></image>
+        <text class="name">胖虎</text>
+        <text class="brief">社会胖虎哥 人狠话不多</text>
+      </view>
+    </swiper-item>
+  </swiper>
+
+  <text class="introduction">这是一款供大家消磨无聊时间的小程序，欢迎推荐给身边的人:)</text>
+  <text class="introduction">PS：我看你是在刁难我胖虎</text>
+</view>
